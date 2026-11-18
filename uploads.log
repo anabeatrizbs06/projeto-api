@@ -1,0 +1,8 @@
+2026-11-17 21:20:39,145 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-11-17 21:20:39,146 - [33mPress CTRL+C to quit[0m
+2026-11-17 21:20:39,147 -  * Restarting with stat
+2026-11-17 21:20:39,602 -  * Debugger is active!
+2026-11-17 21:20:39,606 -  * Debugger PIN: 143-984-788
+2026-11-17 21:28:01,567 -  * Detected change in 'C:\\Users\\Positivo\\ad-kauan\\projeto-ad\\app.py', reloading
+2026-11-17 21:28:01,681 -  * Restarting with stat
